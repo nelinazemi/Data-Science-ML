@@ -7,3 +7,7 @@
     - This project focuses on predicting the survival rate of passengers on the Titanic. Various features such as passenger fare, sex, age, etc. are considered, to make these predictions.
     - The primary method used for this analysis is the Decision Tree Classifier. This classifier is implemented both from scratch and using the sklearn.
     - The Decision Tree Classifier performed well on the test dataset with an accuracy of 82.5%. This suggests that the model was able to accurately predict whether a passenger survived or not based on the given features with a high degree of accuracy.
+- ### 2- Telecom Churn Prediction Project
+  - This project focuses on predicting customer churn in the telecom industry. Customer churn, also known as customer attrition, refers to the phenomenon of customers leaving a company. High churn rates can negatively affect a company’s business performance and growth, making churn prediction a key metric for telecom companies.
+  - The project uses various methods including Decision Tree Classifier, Random Forest Classifier and KNN.
+  - The trained model was able to predict the churnning rate of the Telecom Co. with the accuracy of 82%.
