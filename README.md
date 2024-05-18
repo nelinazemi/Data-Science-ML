@@ -11,3 +11,7 @@
   - This project focuses on predicting customer churn in the telecom industry. Customer churn, also known as customer attrition, refers to the phenomenon of customers leaving a company. High churn rates can negatively affect a company’s business performance and growth, making churn prediction a key metric for telecom companies.
   - The project uses various methods including Decision Tree Classifier, Random Forest Classifier and KNN.
   - The trained model was able to predict the churnning rate of the Telecom Co. with the accuracy of 82%.
+- ### 3- [Diamond Price Prediction:](https://github.com/nelinazemi/Data-Science-ML/tree/926268f51492bdcaddbc67039fe19a548ecbb895/Diamond%20Price%20Prediction)
+  - This project focuses on predicting diamond prices considering various factors such as diamond's type of cut, carat, clarity, color, etc.
+  - The primarily used methods in this project include Decision Tree and Random Forest Classifier.
+  - The trained model was able to predict the price of the diamond with the accuracy of 90%.
