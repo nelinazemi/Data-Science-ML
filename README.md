@@ -15,3 +15,11 @@
   - This project focuses on predicting diamond prices considering various factors such as diamond's type of cut, carat, clarity, color, etc.
   - The primarily used methods in this project include Decision Tree and Random Forest Classifier.
   - The trained model was able to predict the price of the diamond with the accuracy of 90%.
+
+## Contributing
+
+Contributions are welcome! Please read the contribution guidelines before making any changes.
+
+## License
+
+This project is licensed under the terms of the MIT license.
