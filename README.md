@@ -18,8 +18,4 @@
 
 ## Contributing
 
-Contributions are welcome! Please read the contribution guidelines before making any changes.
-
-## License
-
-This project is licensed under the terms of the MIT license.
+Contributions are welcome! Please read the contribution guidelines before making any changes
