@@ -15,6 +15,14 @@
   - This project focuses on predicting diamond prices considering various factors such as diamond's type of cut, carat, clarity, color, etc.
   - The primarily used methods in this project include Decision Tree and Random Forest Classifier.
   - The trained model was able to predict the price of the diamond with the accuracy of 90%.
+- ### 4- [House Price Prediction Project:](https://github.com/nelinazemi/Data-Science-ML/tree/1c5f31140f7fe3a6307333414467db02980688cd/House%20Price%20Prediction)
+    - This project focuses on predicting house prices based on key features such as location, size, and property characteristics. Accurate house price predictions are critical for buyers, sellers, and real estate professionals.
+    - The project employs various methods, including Linear Regression, Decision Tree Regressor, and Random Forest Regressor, to train predictive models.
+    - The trained model achieves a high accuracy in estimating property prices, demonstrating the power of data-driven approaches in real estate valuation.
+- ### 5- [Sleep and Lifestyle Analysis Project:](https://github.com/nelinazemi/Data-Science-ML/tree/1c5f31140f7fe3a6307333414467db02980688cd/Sleep%20and%20Lifestyle%20Analysis)
+    - This project focuses on analyzing the relationship between sleep patterns and lifestyle factors such as physical activity, diet, and screen time. Understanding these relationships is crucial for improving sleep quality and overall well-being.
+    - The project employs various methods, including data visualization and correlation analysis, to uncover patterns and insights.
+    - The findings of this project provide actionable insights into how lifestyle choices can impact sleep quality, promoting healthier habits and better sleep hygiene.
 
 ## Contributing
 
