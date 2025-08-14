@@ -1,5 +1,4 @@
 # Data Science Projects using ML
-![1583217310732](https://github.com/nelinazemi/Data-Science-ML/assets/113586221/b647292a-2e01-4e43-a733-125b980f8b17)
 #### Welcome to my repo containing data science projects on various topics, showcasing knowledge in Machine Learning and the ability to apply it to real-world datasets.
 
 ## Projects:
